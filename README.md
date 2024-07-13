@@ -74,7 +74,7 @@ Setelah deteksi tepi, langkah selanjutnya adalah deteksi kontur. Kontur adalah k
 
     plt.show()
     ```
-![App Screenshot](./Screenshots/hasil.png)
+![App Screenshot](./Screenshots/Hasil.png)
 
 7**Jurnal Terkait**
 - Putu Teguh Krisna Putra, Ni Kadek Ayu Wirdiani (2014). Pengolahan Citra Digital Deteksi Tepi Untuk Membandingkan Metode Sobel, Robert dan Canny. MERPATI VOL. 2, NO. 2, AGUSTUS 2014 ISSN: 2252-3006. Jurusan Teknologi Informasi, Fakultas Teknik, Universitas Udayana, Bukit Jimbaran, Bali, Indonesia, telp. +62361703315. Email: teguhkrisna91@yahoo.com, ayu_wirdi@yahoo.com.
